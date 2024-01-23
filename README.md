@@ -2,7 +2,7 @@
 
 **Overview:**
 
-Developed an interactive treemap visualization to analyze and present the financial and operational impact of wildlife collisions on U.S. airports over a 14-year period. The project synthesizes extensive data to reveal insights into the frequency of strikes and the economic consequences for the aviation industry.
+Develope an interactive treemap visualization to analyze and present the financial and operational impact of wildlife collisions on U.S. airports over a 14-year period. The project synthesizes extensive data to reveal insights into the frequency of strikes and the economic consequences for the aviation industry.
 
 **Features:**
 
